@@ -1,0 +1,81 @@
+/* Style général */
+
+body{
+background:#f4f6fb;
+font-family: 'Segoe UI', sans-serif;
+}
+
+
+/* cartes */
+
+.card{
+border-radius:12px;
+border:none;
+}
+
+.shadow-soft{
+box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+
+
+/* titres */
+
+.section-title{
+font-weight:600;
+color:#2c3e50;
+margin-bottom:15px;
+}
+
+
+/* liens */
+
+a{
+text-decoration:none;
+}
+
+
+/* liste formations */
+
+.formation-card{
+
+transition:0.3s;
+cursor:pointer;
+
+}
+
+.formation-card:hover{
+
+transform:translateY(-4px);
+
+box-shadow:0 10px 25px rgba(0,0,0,0.15);
+
+}
+
+
+/* liste étudiants */
+
+.student-card{
+
+padding:15px;
+border-radius:10px;
+background:white;
+transition:0.3s;
+
+}
+
+.student-card:hover{
+
+background:#f0f4ff;
+
+transform:translateY(-3px);
+
+}
+
+
+/* textarea */
+
+textarea{
+
+resize:none;
+
+}
