@@ -194,15 +194,15 @@ php artisan storage:link
 
 ---
 
--📄 Génération PDF
-✔ Généré avec DomPDF
-✔ Basé sur Blade
-✔Contient les données pédagogiques
--📧 Envoi Email
-✔ Utilise SMTP (Mailtrap)
-✔ Envoi automatique
-✔ PDF attaché au mail
-✔ Destiné au parent de l’étudiant
+    -📄 Génération PDF
+        ✔ Généré avec DomPDF
+        ✔ Basé sur Blade
+        ✔Contient les données pédagogiques
+        -📧 Envoi Email
+        ✔ Utilise SMTP (Mailtrap)
+        ✔ Envoi automatique
+        ✔ PDF attaché au mail
+        ✔ Destiné au parent de l’étudiant
 
 ---
 
@@ -220,26 +220,35 @@ npm install axios react-router-dom react-toastify
 
 ---
 
-- ▶️ Lancement
-  Backend
-  php artisan serve
-  Frontend
-  npm run dev
-  ⚠️ Important
-  Activer XAMPP (MySQL)
-  Vérifier .env
-  Vérifier les ports
+### ▶️ Lancement
+
+- Backend
+- php artisan serve
+- Frontend
+- npm run dev
+- ⚠️ Important
+  ✔ Activer XAMPP (MySQL)
+
+  ✔ Vérifier .env
+
+  ✔ Vérifier les ports
+
+---
 
 - 📜 Licence
-  MIT License
-  👨‍💻 Auteur :
+  - MIT License
+
+  \_ 👨‍💻 Auteur :
   GHIZLANE EL KHYAT
-  Développeur Fullstack (Laravel + React)
+  - Développeur Fullstack (Laravel + React)
 
-- 💡 Remarque
-  Ce projet a été réalisé dans le cadre d’un stage et respecte les bonnes pratiques de développement :
+---
 
-✔ Architecture claire
-✔ Code documenté
-✔ API REST
-✔ UX optimisée
+- 💡 Remarque :
+  Ce projet a été réalisé dans le cadre d’un stage et respecte les
+  ***
+  bonnes pratiques de développement :
+  ✔ Architecture claire
+  ✔ Code documenté
+  ✔ API REST
+  ✔ UX optimisée
