@@ -223,10 +223,8 @@ npm install axios react-router-dom react-toastify
 
 ### ▶️ Lancement
 
-- Backend
-- php artisan serve
-- Frontend
-- npm run dev
+- Backend: php artisan serve
+- Frontend: npm run dev
 - ⚠️ Important
 
   ✔ Activer XAMPP (MySQL)
@@ -239,10 +237,7 @@ npm install axios react-router-dom react-toastify
 
 - 📜 Licence
   - MIT License
-
-  - 👨‍💻 Auteur :
-
-  <strong>GHIZLANE EL KHYAT</strong>
+  - 👨‍💻 Auteur : <strong>GHIZLANE EL KHYAT</strong>
   - Développeur Fullstack (Laravel + React)
 
 ---
